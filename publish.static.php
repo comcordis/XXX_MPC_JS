@@ -1,9 +1,9 @@
 <?php
 
-XXX_Static_Publisher::publishItem(array
+XXX_Static_Publisher::publishMergedFilesFromOtherProject($project, $deployIdentifier, array
 (
-	'sourcePath' => XXX_Path_Local::composeOtherProjectDeploymentSourcePathPrefix($project, $deployIdentifier),
-	'destinationPath' => XXX_Path_Local::extendPath(XXX_Static_Publisher::$destinationPathPrefix, $project)
-));
+	'XXX_MPC_PresenterContext.js'
+),
+'initialize.js');
 
 ?>

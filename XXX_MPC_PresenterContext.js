@@ -1,4 +1,4 @@
-var XXX_MPC_PresenterContext
+var XXX_MPC_PresenterContext = 
 {
 	pathPrefixes: {},
 	
