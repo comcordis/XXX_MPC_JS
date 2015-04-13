@@ -1,0 +1,6 @@
+project:XXX_MPC_JS
+deployEnvironment:development
+checkout:master
+commitHash:ba4122591f12eadea56ebf04399e8883e31d4edd
+timestamp:2015-04-13T09:44:52Z
+deployer:operations
